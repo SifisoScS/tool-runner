@@ -1,0 +1,35 @@
+{
+  "system": "ai-agents",
+  "role": "utility",
+  "related": [
+    "prompt-builder",
+    "prompt-optimizer",
+    "prompt-router",
+    "prompt-cache",
+    "prompt-validator",
+    "prompt-template",
+    "prompt-versioner",
+    "prompt-chain",
+    "prompt-debugger",
+    "tool-dispatcher",
+    "tool-registry",
+    "tool-executor",
+    "tool-validator",
+    "tool-adapter",
+    "tool-composer",
+    "tool-monitor"
+  ],
+  "quality": {
+    "typeSafety": 1,
+    "exportCompleteness": 0.7,
+    "documentationDensity": 1,
+    "testPresence": 1,
+    "overallScore": 0.91,
+    "passed": true,
+    "evaluatedAt": "2026-11-27T15:40:46.433Z"
+  },
+  "regressionReport": {
+    "regressionDetected": false,
+    "regressions": []
+  }
+}
